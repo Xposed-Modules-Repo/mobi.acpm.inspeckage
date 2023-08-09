@@ -1,0 +1,1 @@
+Inspeckage是一个开发用于提供Android应用程序动态分析的工具。通过将钩子应用于Android API的功能，Inspeckage将帮助您了解Android应用程序在运行时正在做什么。
